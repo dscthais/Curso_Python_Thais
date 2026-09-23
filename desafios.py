@@ -15,7 +15,7 @@
 # te recebe na porta com um sorriso e pede para você testar o terminal do saguão.
 # Missão: Use a função print() para exibir a mensagem: "Cheguei na JWC!"
 
-print("cheguei na JWC!")
+#print("cheguei na JWC!")
 
 # Código:
 
